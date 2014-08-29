@@ -1,0 +1,22 @@
+{
+  "name": "duo-sass",
+  "version": "0.1.0",
+  "description": "duo plugin for transpiling sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tetsuo/duo-sass.git"
+  },
+  "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetsuo/duo-sass/issues"
+  },
+  "homepage": "https://github.com/tetsuo/duo-sass",
+  "dependencies": {
+    "node-sass": "^0.9.3"
+  }
+}
