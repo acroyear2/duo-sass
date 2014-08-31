@@ -16,6 +16,10 @@ function plugin (options) {
 }
 
 function compile (data, options) {
+  var includePaths = options.includePaths;
+  if (includePaths && 'string' === typeof includePaths)
+    options.includePaths = includePaths.split(':');
+
   return function (cb) {
     sass.render(extend(options, {
       data: data,
