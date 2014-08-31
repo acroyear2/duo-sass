@@ -1,6 +1,6 @@
 {
   "name": "duo-sass",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "duo plugin for transpiling sass",
   "main": "index.js",
   "scripts": {
