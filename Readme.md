@@ -1,6 +1,8 @@
 
-# duo-sass
+### **DEPRECATED** in favor of [duojs/sass](https://github.com/duojs/sass).
 
+# duo-sass
+	
   [duo](https://github.com/duojs/duo) plugin for transpiling sass.
 
 ## Installation
